@@ -1,10 +1,12 @@
-# Welcome to Cointer, a coin counter (yes) 
+# Introducing Cointer, a coin counter (yes) 
 
-<img src="ressources/rendered.png" alt="rendered" style="zoom:67%;" />
+This project is a realization of a coin sorter. It uses lasers and photoresistors : the coin cuts the beam and increments the 7 segments displays while pressing a button decrements these displays.
+
+<img src="ressources/rendered.png" alt="rendered" style="zoom:50%;" />
 
 You will find here the main code of this project but also simulation and 2D plans.
 
-* Library requirement : My [Simple I/O Library](https://github.com/JRodez/Simple-I-O-Library-Arduino-WPI) 
+* Library requirement : My [Simple I/O Library](https://github.com/JRodez/Simple-I-O-Library-Arduino-WPI) ([docs]())
 
 * Component list for 3 columns :
 
