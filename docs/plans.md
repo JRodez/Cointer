@@ -7,9 +7,10 @@
 
 Exploded view : <img src="ressources/explodedview.png" alt="rendered" style="zoom:80%;" />
 
+thanks to Anthony Chaigneau for this.
 
+## Electronics scheme 
 
-## Electronics scheme and simulation
+You can find the Proteus simulation [here](https://github.com/JRodez/Cointer/tree/main/proteus)
 
-
-
+![Cointer](G:\Projets\ElemLib\tests\arduino\Blindey\proteus\Cointer.SVG)
