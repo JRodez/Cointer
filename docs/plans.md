@@ -13,4 +13,4 @@ thanks to Anthony Chaigneau for this.
 
 You can find the Proteus simulation [here](https://github.com/JRodez/Cointer/tree/main/proteus)
 
-![Cointer](G:\Projets\ElemLib\tests\arduino\Blindey\proteus\Cointer.SVG)
+![Cointer](https://github.com/JRodez/Cointer/tree/main/proteus\Cointer.SVG)
