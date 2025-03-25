@@ -23,10 +23,10 @@ You will find here the main code of this project but also simulation and 2D plan
   
   
 
-## Resources: 
+## Resources
 
 * [Code explanation](cointer.ino.md) 
 * [Plans for building](./plans.md)
 
-## Authors:
+## Authors
 [Anthony.C](https://github.com/Artassinxe) [@JRodez](https://github.com/JRodez)
